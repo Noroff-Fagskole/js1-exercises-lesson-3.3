@@ -2,7 +2,7 @@
 
 Use fetch() to get the data from the `amiiboapi`.
 
-Parse the response from JSON into an object, and with the list in that (JSON) object call a function that lists the received items onto your webpage.
+Parse the response from JSON into an object, and with the list in that (JSON) object, call a function that lists the received items onto your webpage.
 
 Remember to have a catch() to handle errors and [display a message](https://codepen.io/xiaolasse/pen/dyOpzza) to the user if something goes wrong.
 
